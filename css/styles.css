@@ -1,0 +1,21 @@
+body {
+	font-size: 25px;
+	color: #000;
+	background-color: #fff;
+}
+
+.hidden{
+	display: none;
+}
+
+
+#header-nav {
+	padding: 10px;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	font-family: 'Josefin Slab', serif;
+}
+
+.navbar-nav a {
+	margin-left: 40px;
+	margin-right: 40px;
+}
